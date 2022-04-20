@@ -1,0 +1,11 @@
+# Client
+client/.DS_Store
+client/node_modules/
+client/src/node_modules/@sapper/
+client/yarn-error.log
+client/__sapper__/
+client/.env
+
+# Server
+server/node_modules
+server/.env
